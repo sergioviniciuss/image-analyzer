@@ -41,11 +41,11 @@ If you want to run this code again you need to rename this folder or exclude it.
 ## Authors
 
 * **Sergio Vinícius de Sá Lucena** - [sergioviniciuss](https://github.com/sergioviniciuss)
-* **André Furquim** - *Initial work* - [macand](https://github.com/mcand)
+* **André Furquim** - [macand](https://github.com/mcand)
 * **Heloisa Medeiros**
 
 ## Acknowledgments
 
 * This code was written as part of an Artificial Intelligence study to evaluate the efficiency of pearson correlation to 
-* **Detailed explanation** - *Initial work* - [slideshare - portuguese](https://pt.slideshare.net/sergioviniciuss/analisador-de-imagens-usando-o-coeficiente-de-correlao)
+* **Detailed explanation** - [slideshare - portuguese](https://pt.slideshare.net/sergioviniciuss/analisador-de-imagens-usando-o-coeficiente-de-correlao)
 
