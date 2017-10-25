@@ -22,13 +22,21 @@ Yayy!! take your pics and start to play! =)
 
 ### How it works
 The application takes images using the webcam of your laptop;
+
 An image is an array, or a matrix, of square pixels (picture elements) arranged in columns and rows. The app gets these pixels and convert them to values such as black and white.
+
 After this convertion, we apply the pearson correlation coefficient to generate an index for each image.
+
 All images taken by the camera are compared to the first image taken. The correlation is generated based on this comparison made between each image and the first one.
+
 After that, the images are stored in a vector sorted by descending order.
+
 The sorted vector is divided into 3 parts, storing the images in 3 folders.
+
 The first folder has the images with more correlation;
+
 The second folder has the images with intermediary correlation;
+
 The third folder has the images with less correlation.
 
 
