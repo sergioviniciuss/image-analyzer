@@ -1,6 +1,6 @@
 # Image Analyzer based on pearson correlation
 Image Analyzer using pearson-correlation and cross-correlation
-###Requirements:
+### Requirements:
 	Operating System:
 		Windows
 	python:
@@ -20,7 +20,7 @@ the file analisador.py must be kept on python's folder (i.e.: C:\Python25)
 
 Yayy!! take your pics and start to play! =)
 
-###How it works
+### How it works
 The application takes images using the webcam of your laptop;
 An image is an array, or a matrix, of square pixels (picture elements) arranged in columns and rows. The app gets these pixels and convert them to values such as black and white.
 After this convertion, we apply the pearson correlation coefficient to generate an index for each image.
@@ -32,7 +32,7 @@ The second folder has the images with intermediary correlation;
 The third folder has the images with less correlation.
 
 
-###Output
+### Output
 The app will create a folder named IA, inside python's path and an HTML will be generated, which you can open to check the results in the browser.
 
 PS:
