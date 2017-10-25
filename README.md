@@ -1,4 +1,4 @@
-# Image Analyzer based on pearson correlation
+# Image Analyzer based on Pearson correlation coefficient
 Image Analyzer using pearson-correlation and cross-correlation
 ### Requirements:
 	Operating System:
